@@ -10,7 +10,7 @@ A Progressive Web App (PWA) habit tracker optimized for iPhone and iOS devices.
 - **Milestone Celebrations**: Get rewarded at 7, 30, 100, and 365-day milestones
 - **Streak Badges**: Visual indicators with fire emoji for active streaks
 
-### 🎨 Enhanced UI/UX
+### 🎨 Enhanced UI/UX 
 - **Toast Notifications**: Modern, non-intrusive notifications instead of alerts
 - **Loading States**: Skeleton screens and spinners for better perceived performance
 - **Dark Mode**: Automatic dark mode based on system preferences
